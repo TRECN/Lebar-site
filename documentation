@@ -1,0 +1,14 @@
+rfce can be used to add base snippits
+
+
+
+
+1. npx create-react-app <app name>
+    1.1. make sure to update it on github
+2. delete everything in src folder
+    2.1. except the index.js App.js App.css
+    2.2. remome the unrequired lines in index.js
+3. create a component folder
+4. starting to create a navbar
+    4.1. div 
+    
