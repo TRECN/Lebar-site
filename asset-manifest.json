@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/LEBAR/static/css/main.2a095ca5.chunk.css",
+    "main.js": "/LEBAR/static/js/main.f7643d29.chunk.js",
+    "main.js.map": "/LEBAR/static/js/main.f7643d29.chunk.js.map",
+    "runtime-main.js": "/LEBAR/static/js/runtime-main.e0f0f608.js",
+    "runtime-main.js.map": "/LEBAR/static/js/runtime-main.e0f0f608.js.map",
+    "static/js/2.ab1142cc.chunk.js": "/LEBAR/static/js/2.ab1142cc.chunk.js",
+    "static/js/2.ab1142cc.chunk.js.map": "/LEBAR/static/js/2.ab1142cc.chunk.js.map",
+    "index.html": "/LEBAR/index.html",
+    "static/css/main.2a095ca5.chunk.css.map": "/LEBAR/static/css/main.2a095ca5.chunk.css.map",
+    "static/js/2.ab1142cc.chunk.js.LICENSE.txt": "/LEBAR/static/js/2.ab1142cc.chunk.js.LICENSE.txt",
+    "static/media/svg-1.a0fadd5c.png": "/LEBAR/static/media/svg-1.a0fadd5c.png",
+    "static/media/svg-5.398f9933.png": "/LEBAR/static/media/svg-5.398f9933.png",
+    "static/media/svg-7.93a059de.png": "/LEBAR/static/media/svg-7.93a059de.png",
+    "static/media/svg-8.c45abb95.png": "/LEBAR/static/media/svg-8.c45abb95.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0f0f608.js",
+    "static/js/2.ab1142cc.chunk.js",
+    "static/css/main.2a095ca5.chunk.css",
+    "static/js/main.f7643d29.chunk.js"
+  ]
+}
