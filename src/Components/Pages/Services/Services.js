@@ -1,7 +1,7 @@
 import React from 'react'
 import HeroSection from '../../HeroSection'
 
-import {homeObjTwo} from './Data'
+import {homeObjTwo} from '../Data'
 
 function Services() {
     return (
