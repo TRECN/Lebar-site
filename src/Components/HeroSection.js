@@ -1,11 +1,31 @@
 import React from 'react'
 import Button from './Button'
 import {Link} from 'react-router-dom'
+import svg from '../assets/svg-1.png'
+import svg1 from '../assets/svg-8.png'
+import svg2 from '../assets/svg-5.png'
+import svg3 from '../assets/svg-7.png'
+
 import './HeroSection.css'
 function HeroSection({
     lightBg, topLine,lightText, lightTextDesc, headline, description,
     buttonLable, img, alt,imgStart
 }) {
+    const setImg=()=>{
+        if(img==='1')
+            return svg
+        else
+            if(img==='2')
+                return svg1
+        else
+        if(img==='3')
+            return svg2
+        else
+        if(img==='4')
+            return svg3
+    }
+
+
     
     return (
         <>
@@ -27,7 +47,7 @@ function HeroSection({
                        </div>
                        <div className="col">
                        <div className="home__hero-img-wrapper">
-                           <img src={img} alt={alt} className="home__hero-img" />
+                           <img src={setImg()} alt={alt} className="home__hero-img" />
                        </div>
                        </div>
                        
