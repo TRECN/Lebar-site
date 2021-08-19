@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.fef5314e.chunk.css",
-    "main.js": "/static/js/main.f7643d29.chunk.js",
-    "main.js.map": "/static/js/main.f7643d29.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.248e9f28.js",
-    "runtime-main.js.map": "/static/js/runtime-main.248e9f28.js.map",
-    "static/js/2.ab1142cc.chunk.js": "/static/js/2.ab1142cc.chunk.js",
-    "static/js/2.ab1142cc.chunk.js.map": "/static/js/2.ab1142cc.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.fef5314e.chunk.css.map": "/static/css/main.fef5314e.chunk.css.map",
-    "static/js/2.ab1142cc.chunk.js.LICENSE.txt": "/static/js/2.ab1142cc.chunk.js.LICENSE.txt",
-    "static/media/svg-1.a0fadd5c.png": "/static/media/svg-1.a0fadd5c.png",
-    "static/media/svg-5.398f9933.png": "/static/media/svg-5.398f9933.png",
-    "static/media/svg-7.93a059de.png": "/static/media/svg-7.93a059de.png",
-    "static/media/svg-8.c45abb95.png": "/static/media/svg-8.c45abb95.png"
+    "main.css": "/Lebar-site/static/css/main.fef5314e.chunk.css",
+    "main.js": "/Lebar-site/static/js/main.f7643d29.chunk.js",
+    "main.js.map": "/Lebar-site/static/js/main.f7643d29.chunk.js.map",
+    "runtime-main.js": "/Lebar-site/static/js/runtime-main.bcabd8dc.js",
+    "runtime-main.js.map": "/Lebar-site/static/js/runtime-main.bcabd8dc.js.map",
+    "static/js/2.ab1142cc.chunk.js": "/Lebar-site/static/js/2.ab1142cc.chunk.js",
+    "static/js/2.ab1142cc.chunk.js.map": "/Lebar-site/static/js/2.ab1142cc.chunk.js.map",
+    "index.html": "/Lebar-site/index.html",
+    "static/css/main.fef5314e.chunk.css.map": "/Lebar-site/static/css/main.fef5314e.chunk.css.map",
+    "static/js/2.ab1142cc.chunk.js.LICENSE.txt": "/Lebar-site/static/js/2.ab1142cc.chunk.js.LICENSE.txt",
+    "static/media/svg-1.a0fadd5c.png": "/Lebar-site/static/media/svg-1.a0fadd5c.png",
+    "static/media/svg-5.398f9933.png": "/Lebar-site/static/media/svg-5.398f9933.png",
+    "static/media/svg-7.93a059de.png": "/Lebar-site/static/media/svg-7.93a059de.png",
+    "static/media/svg-8.c45abb95.png": "/Lebar-site/static/media/svg-8.c45abb95.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.248e9f28.js",
+    "static/js/runtime-main.bcabd8dc.js",
     "static/js/2.ab1142cc.chunk.js",
     "static/css/main.fef5314e.chunk.css",
     "static/js/main.f7643d29.chunk.js"
